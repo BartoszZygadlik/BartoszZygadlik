@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://www.codewars.com/users/BartoszZygadlik/badges/large
+![image](https://www.codewars.com/users/BartoszZygadlik/badges/large)
 
 <!---
 BartoszZygadlik/BartoszZygadlik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
